@@ -1,0 +1,697 @@
+{
+  "boxes": [
+    {
+      "label": "Box 1",
+      "fields": ["checkbox_inscrire_ajouter"],
+      "labels": ["checkbox_inscrire_ajouter"]
+    },
+    {
+      "label": "Box 2",
+      "fields": [
+        "nom",
+        "prenom",
+        "date_naissance",
+        "lieu_naissance",
+        "pays_naissance"
+      ],
+      "labels": [
+        "nom",
+        "prenom",
+        "date_naissance",
+        "lieu_naissance",
+        "pays_naissance"
+      ]
+    },
+    {
+      "label": "Box 3",
+      "fields": [
+        "denomination_sociale",
+        "numero_immatriculation",
+        "nom_registre",
+        "pays"
+      ],
+      "labels": [
+        "denomination_sociale",
+        "numero_immatriculation",
+        "nom_registre",
+        "pays"
+      ]
+    },
+    {
+      "label": "Box 4",
+      "fields": [
+        "nom_rep",
+        "prenom_rep",
+        "date_naissance_rep",
+        "lieu_naissance_rep",
+        "pays_naissance_rep",
+        "rue",
+        "numero",
+        "batiment",
+        "etage",
+        "code_postal",
+        "localite",
+        "pays_adresse"
+      ],
+      "labels": [
+        "nom_rep",
+        "prenom_rep",
+        "date_naissance_rep",
+        "lieu_naissance_rep",
+        "pays_naissance_rep",
+        "rue",
+        "numero",
+        "batiment",
+        "etage",
+        "code_postal",
+        "localite",
+        "pays_adresse"
+      ]
+    },
+    {
+      "label": "Box 5",
+      "fields": [
+        "rue_2",
+        "numero_2",
+        "code_post",
+        "localite_2",
+        "pays_2",
+        "batiment_2",
+        "etage_2"
+      ],
+      "labels": [
+        "rue_2",
+        "numero_2",
+        "code_post",
+        "localite_2",
+        "pays_2",
+        "batiment_2",
+        "etage_2"
+      ]
+    }
+  ],
+  "fields": {
+    "checkbox_inscrire_ajouter": {
+      "relative_top_left": {
+        "x": 0.02504581551618815,
+        "y": 0.25728813559322035
+      },
+      "relative_bottom_right": {
+        "x": 0.04337202199144777,
+        "y": 0.5630508474576271
+      }
+    },
+    "nom": {
+      "relative_top_left": {
+        "x": 0.29383017715332926,
+        "y": 0.04336043360433604
+      },
+      "relative_bottom_right": {
+        "x": 0.9773976786805131,
+        "y": 0.19241192411924118
+      }
+    },
+    "prenom": {
+      "relative_top_left": {
+        "x": 0.29688454489920585,
+        "y": 0.23306233062330622
+      },
+      "relative_bottom_right": {
+        "x": 0.9731215638362859,
+        "y": 0.37398373983739835
+      }
+    },
+    "date_naissance": {
+      "relative_top_left": {
+        "x": 0.3591936469150886,
+        "y": 0.4146341463414634
+      },
+      "relative_bottom_right": {
+        "x": 0.4972510690287111,
+        "y": 0.5555555555555556
+      }
+    },
+    "lieu_naissance": {
+      "relative_top_left": {
+        "x": 0.36163714111178985,
+        "y": 0.6016260162601627
+      },
+      "relative_bottom_right": {
+        "x": 0.9743433109346366,
+        "y": 0.7425474254742548
+      }
+    },
+    "pays_naissance": {
+      "relative_top_left": {
+        "x": 0.3604153940134392,
+        "y": 0.8021680216802168
+      },
+      "relative_bottom_right": {
+        "x": 0.9694563225412339,
+        "y": 0.943089430894309
+      }
+    },
+    "denomination_sociale": {
+      "relative_top_left": {
+        "x": 0.36324786324786323,
+        "y": 0.03940886699507389
+      },
+      "relative_bottom_right": {
+        "x": 0.9755799755799756,
+        "y": 0.2733990147783251
+      }
+    },
+    "numero_immatriculation": {
+      "relative_top_left": {
+        "x": 0.36324786324786323,
+        "y": 0.33251231527093594
+      },
+      "relative_bottom_right": {
+        "x": 0.981074481074481,
+        "y": 0.4753694581280788
+      }
+    },
+    "nom_registre": {
+      "relative_top_left": {
+        "x": 0.362026862026862,
+        "y": 0.5320197044334976
+      },
+      "relative_bottom_right": {
+        "x": 0.9725274725274725,
+        "y": 0.770935960591133
+      }
+    },
+    "pays": {
+      "relative_top_left": {
+        "x": 0.3614163614163614,
+        "y": 0.8152709359605911
+      },
+      "relative_bottom_right": {
+        "x": 0.9731379731379731,
+        "y": 0.9507389162561576
+      }
+    },
+    "nom_rep": {
+      "relative_top_left": {
+        "x": 0.2940817571690055,
+        "y": 0.11534603811434303
+      },
+      "relative_bottom_right": {
+        "x": 0.9774252593044539,
+        "y": 0.17953861584754263
+      }
+    },
+    "prenom_rep": {
+      "relative_top_left": {
+        "x": 0.29835265405735206,
+        "y": 0.18956870611835505
+      },
+      "relative_bottom_right": {
+        "x": 0.9792556436851739,
+        "y": 0.2477432296890672
+      }
+    },
+    "date_naissance_rep": {
+      "relative_top_left": {
+        "x": 0.36546674801708356,
+        "y": 0.2587763289869609
+      },
+      "relative_bottom_right": {
+        "x": 0.4966442953020134,
+        "y": 0.3119358074222668
+      }
+    },
+    "lieu_naissance_rep": {
+      "relative_top_left": {
+        "x": 0.3642464917632703,
+        "y": 0.324974924774323
+      },
+      "relative_bottom_right": {
+        "x": 0.9804758999389872,
+        "y": 0.3811434302908726
+      }
+    },
+    "pays_naissance_rep": {
+      "relative_top_left": {
+        "x": 0.36363636363636365,
+        "y": 0.3971915747241725
+      },
+      "relative_bottom_right": {
+        "x": 0.9816961561928005,
+        "y": 0.4593781344032096
+      }
+    },
+    "rue": {
+      "relative_top_left": {
+        "x": 0.25991458206223306,
+        "y": 0.5336008024072216
+      },
+      "relative_bottom_right": {
+        "x": 0.9798657718120806,
+        "y": 0.5897693079237714
+      }
+    },
+    "numero": {
+      "relative_top_left": {
+        "x": 0.26174496644295303,
+        "y": 0.6078234704112337
+      },
+      "relative_bottom_right": {
+        "x": 0.4600366076876144,
+        "y": 0.6589769307923772
+      }
+    },
+    "batiment": {
+      "relative_top_left": {
+        "x": 0.7095790115924344,
+        "y": 0.6108324974924775
+      },
+      "relative_bottom_right": {
+        "x": 0.9786455155582673,
+        "y": 0.6629889669007021
+      }
+    },
+    "etage": {
+      "relative_top_left": {
+        "x": 0.7065283709579011,
+        "y": 0.6900702106318957
+      },
+      "relative_bottom_right": {
+        "x": 0.9774252593044539,
+        "y": 0.753259779338014
+      }
+    },
+    "code_postal": {
+      "relative_top_left": {
+        "x": 0.26174496644295303,
+        "y": 0.7903711133400201
+      },
+      "relative_bottom_right": {
+        "x": 0.5302013422818792,
+        "y": 0.8415245737211635
+      }
+    },
+    "localite": {
+      "relative_top_left": {
+        "x": 0.26235509456985967,
+        "y": 0.8595787362086259
+      },
+      "relative_bottom_right": {
+        "x": 0.9774252593044539,
+        "y": 0.9077231695085256
+      }
+    },
+    "pays_adresse": {
+      "relative_top_left": {
+        "x": 0.26174496644295303,
+        "y": 0.9287863590772317
+      },
+      "relative_bottom_right": {
+        "x": 0.9792556436851739,
+        "y": 0.9779338014042126
+      }
+    },
+    "rue_2": {
+      "relative_top_left": {
+        "x": 0.2591,
+        "y": 0.0396
+      },
+      "relative_bottom_right": {
+        "x": 0.91,
+        "y": 0.157
+      }
+    },
+    "numero_2": {
+      "relative_top_left": {
+        "x": 0.2591,
+        "y": 0.1813
+      },
+      "relative_bottom_right": {
+        "x": 0.4600 ,
+        "y": 0.3021
+      }
+    },
+    "code_post": {
+      "relative_top_left": {
+        "x": 0.2597,
+        "y": 0.5563
+      },
+      "relative_bottom_right": {
+        "x": 0.51,
+        "y": 0.68
+      }
+    },
+    "localite_2": {
+      "relative_top_left": {
+        "x": 0.2597,
+        "y": 0.6938
+      },
+      "relative_bottom_right": {
+        "x":0.91,
+        "y": 0.80
+      }
+    },
+    "pays_2": {
+      "relative_top_left": {
+        "x": 0.2609,
+        "y": 0.8417
+      },
+      "relative_bottom_right": {
+        "x": 0.95,
+        "y": 0.9646
+      }
+    },
+    "batiment_2": {
+      "relative_top_left": {
+        "x": 0.7079,
+        "y": 0.1813
+      },
+      "relative_bottom_right": {
+        "x": 0.9803,
+        "y": 0.3021
+      }
+    },
+    "etage_2": {
+      "relative_top_left": {
+        "x": 0.7085,
+        "y": 0.3708
+      },
+      "relative_bottom_right": {
+        "x": 0.9809,
+        "y": 0.4875
+      }
+    }
+  },
+  "labels": {
+    "checkbox_inscrire_ajouter": {
+      "relative_top_left": {
+        "x": 0.056200366524129505,
+        "y": 0.19254237288135594
+      },
+      "relative_bottom_right": {
+        "x": 0.2235797189981674,
+        "y": 0.7010169491525424
+      }
+    },
+    "modifier_completer": {
+      "relative_top_left": {
+        "x": 0.42822235797189984,
+        "y": 0.1440677966101695
+      },
+      "relative_bottom_right": {
+        "x": 0.6395846059865608,
+        "y": 0.6101694915254238
+      }
+    },
+    "rayer": {
+      "relative_top_left": {
+        "x": 0.8155161881490531,
+        "y": 0.11864406779661017
+      },
+      "relative_bottom_right": {
+        "x": 0.8497251069028711,
+        "y": 0.5677966101694916
+      }
+    },
+    "nom": {
+      "relative_top_left": {
+        "x": 0.004276114844227245,
+        "y": 0.051490514905149054
+      },
+      "relative_bottom_right": {
+        "x": 0.07147220525351253,
+        "y": 0.18157181571815717
+      }
+    },
+    "prenom": {
+      "relative_top_left": {
+        "x": 0.0036652412950519244,
+        "y": 0.21951219512195122
+      },
+      "relative_bottom_right": {
+        "x": 0.12339645693341478,
+        "y": 0.36314363143631434
+      }
+    },
+    "date_naissance": {
+      "relative_top_left": {
+        "x": 0.004276114844227245,
+        "y": 0.4146341463414634
+      },
+      "relative_bottom_right": {
+        "x": 0.2028100183262065,
+        "y": 0.5501355013550135
+      }
+    },
+    "lieu_naissance": {
+      "relative_top_left": {
+        "x": 0.007330482590103849,
+        "y": 0.6043360433604336
+      },
+      "relative_bottom_right": {
+        "x": 0.1948686621869273,
+        "y": 0.7533875338753387
+      }
+    },
+    "pays_naissance": {
+      "relative_top_left": {
+        "x": 0.00794135613927917,
+        "y": 0.7831978319783198
+      },
+      "relative_bottom_right": {
+        "x": 0.19670128283445326,
+        "y": 0.94579945799458
+      }
+    },
+    "denomination_sociale": {
+      "relative_top_left": {
+        "x": 0.006715506715506716,
+        "y": 0.027093596059113302
+      },
+      "relative_bottom_right": {
+        "x": 0.33882783882783885,
+        "y": 0.15024630541871922
+      }
+    },
+    "numero_immatriculation": {
+      "relative_top_left": {
+        "x": 0.009157509157509158,
+        "y": 0.32019704433497537
+      },
+      "relative_bottom_right": {
+        "x": 0.231990231990232,
+        "y": 0.45073891625615764
+      }
+    },
+    "nom_registre": {
+      "relative_top_left": {
+        "x": 0.009157509157509158,
+        "y": 0.5320197044334976
+      },
+      "relative_bottom_right": {
+        "x": 0.19291819291819293,
+        "y": 0.6625615763546798
+      }
+    },
+    "pays": {
+      "relative_top_left": {
+        "x": 0.007936507936507936,
+        "y": 0.8029556650246306
+      },
+      "relative_bottom_right": {
+        "x": 0.07020757020757021,
+        "y": 0.9285714285714286
+      }
+    },
+    "nom_rep": {
+      "relative_top_left": {
+        "x": 0.009151921903599756,
+        "y": 0.12437311935807423
+      },
+      "relative_bottom_right": {
+        "x": 0.0713849908480781,
+        "y": 0.17251755265797392
+      }
+    },
+    "prenom_rep": {
+      "relative_top_left": {
+        "x": 0.010372178157413058,
+        "y": 0.18756268806419257
+      },
+      "relative_bottom_right": {
+        "x": 0.12080536912751678,
+        "y": 0.242728184553661
+      }
+    },
+    "date_naissance_rep": {
+      "relative_top_left": {
+        "x": 0.009151921903599756,
+        "y": 0.2577733199598796
+      },
+      "relative_bottom_right": {
+        "x": 0.20439292251372787,
+        "y": 0.31093279839518556
+      }
+    },
+    "lieu_naissance_rep": {
+      "relative_top_left": {
+        "x": 0.010372178157413058,
+        "y": 0.3319959879638917
+      },
+      "relative_bottom_right": {
+        "x": 0.19951189749847467,
+        "y": 0.38515546639919757
+      }
+    },
+    "pays_naissance_rep": {
+      "relative_top_left": {
+        "x": 0.009762050030506406,
+        "y": 0.3971915747241725
+      },
+      "relative_bottom_right": {
+        "x": 0.20134228187919462,
+        "y": 0.45536609829488467
+      }
+    },
+    "rue": {
+      "relative_top_left": {
+        "x": 0.010372178157413058,
+        "y": 0.5325977933801405
+      },
+      "relative_bottom_right": {
+        "x": 0.06345332519829164,
+        "y": 0.5857572718154463
+      }
+    },
+    "numero": {
+      "relative_top_left": {
+        "x": 0.008541793776693106,
+        "y": 0.6018054162487463
+      },
+      "relative_bottom_right": {
+        "x": 0.10372178157413056,
+        "y": 0.6529588766298897
+      }
+    },
+    "batiment": {
+      "relative_top_left": {
+        "x": 0.49115314215985356,
+        "y": 0.6068204613841525
+      },
+      "relative_bottom_right": {
+        "x": 0.5960951799877975,
+        "y": 0.6529588766298897
+      }
+    },
+    "etage": {
+      "relative_top_left": {
+        "x": 0.4917632702867602,
+        "y": 0.691073219658977
+      },
+      "relative_bottom_right": {
+        "x": 0.5600976205003051,
+        "y": 0.7482447342026078
+      }
+    },
+    "code_postal": {
+      "relative_top_left": {
+        "x": 0.012812690665039659,
+        "y": 0.7763289869608826
+      },
+      "relative_bottom_right": {
+        "x": 0.1427699816961562,
+        "y": 0.8365095285857572
+      }
+    },
+    "localite": {
+      "relative_top_left": {
+        "x": 0.012812690665039659,
+        "y": 0.8505516549648947
+      },
+      "relative_bottom_right": {
+        "x": 0.10128126906650396,
+        "y": 0.9017051153460381
+      }
+    },
+    "pays_adresse": {
+      "relative_top_left": {
+        "x": 0.009762050030506406,
+        "y": 0.9197592778335005
+      },
+      "relative_bottom_right": {
+        "x": 0.0701647345942648,
+        "y": 0.9699097291875627
+      }
+    },
+    "rue_2": {
+      "relative_top_left": {
+        "x": 0.0062,
+        "y": 0.0354
+      },
+      "relative_bottom_right": {
+        "x": 0.0635,
+        "y": 0.1792
+      }
+    },
+    "numero_2": {
+      "relative_top_left": {
+        "x": 0.0043,
+        "y": 0.1792
+      },
+      "relative_bottom_right": {
+        "x": 0.1043,
+        "y": 0.3188
+      }
+    },
+    "code_post": {
+      "relative_top_left": {
+        "x": 0.0068,
+        "y": 0.5563
+      },
+      "relative_bottom_right": {
+        "x": 0.1518,
+        "y": 0.6938
+      }
+    },
+    "localite_2": {
+      "relative_top_left": {
+        "x": 0.0056,
+        "y": 0.6938
+      },
+      "relative_bottom_right": {
+        "x": 0.1006,
+        "y": 0.8188
+      }
+    },
+    "pays_2": {
+      "relative_top_left": {
+        "x": 0.0074,
+        "y": 0.8479
+      },
+      "relative_bottom_right": {
+        "x": 0.0711,
+        "y": 0.9688
+      }
+    },
+    "batiment_2": {
+      "relative_top_left": {
+        "x": 0.4929,
+        "y": 0.1917
+      },
+      "relative_bottom_right": {
+        "x": 0.6015,
+        "y": 0.2875
+      }
+    },
+    "etage_2": {
+      "relative_top_left": {
+        "x": 0.4892,
+        "y": 0.3833
+      },
+      "relative_bottom_right": {
+        "x": 0.5669,
+        "y": 0.4833
+      }
+    }
+  }
+}

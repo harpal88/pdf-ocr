@@ -1,0 +1,264 @@
+{
+  "boxes": [
+      {
+          "label": "Box 1",
+          "fields": [
+              "checkbox_determine",
+              "checkbox_indetermine",
+              "date_de_nomination",
+              "date_d_expiration",
+              "ou"
+          ],
+          "labels": [
+              "checkbox_determine",
+              "checkbox_indetermine",
+              "date_de_nomination",
+              "date_d_expiration",
+              "ou"
+          ]
+      },
+      {
+          "label": "Box 2",
+          "fields": [
+              "organe_social",
+              "fonction",
+              "pouvoir_de_signature",
+              "effacer1",
+              "effacer2",
+              "effacer3"
+          ],
+          "labels": [
+              "organe_social",
+              "fonction",
+              "pouvoir_de_signature",
+              "effacer1",
+              "effacer2",
+              "effacer3"
+          ]
+      }
+  ],
+  "fields": {
+        "checkbox_determine": {
+            "relative_top_left": {
+                "x": 0.0164,
+                "y": 0.0512
+            },
+            "relative_bottom_right": {
+                "x": 0.0376,
+                "y": 0.1334
+            }
+        },
+        "checkbox_indetermine": {
+            "relative_top_left": {
+                "x":0.3667,
+                "y": 0.0486
+            },
+            "relative_bottom_right": {
+                "x": 0.3863,
+                "y": 0.1344
+            }
+        },
+        "date_de_nomination": {
+          "relative_top_left": {
+              "x": 0.3640,
+              "y": 0.2454
+          },
+          "relative_bottom_right": {
+              "x": 0.5114,
+              "y": 0.3890
+          }
+        },
+        "date_d_expiration": {
+            "relative_top_left": {
+                "x": 0.3627,
+                "y": 0.4767
+            },
+            "relative_bottom_right": {
+                "x": 0.5102,
+                "y": 0.6230
+            }
+        },
+        "ou": {
+            "relative_top_left": {
+                "x": 0.7444,
+                "y": 0.7284
+            },
+            "relative_bottom_right": {
+                "x": 0.8831,
+                "y": 0.8773
+            }
+        },
+        "organe_social": {
+            "relative_top_left": {
+                "x": 0.3633,
+                "y": 0.0472
+            },
+            "relative_bottom_right": {
+                "x": 0.8433,
+                "y": 0.2364
+            }
+        },
+        "fonction": {
+            "relative_top_left": {
+                "x": 0.3630,
+                "y": 0.2805
+            },
+            "relative_bottom_right": {
+                "x": 0.8433,
+                "y": 0.4697
+            }
+        },
+        "pouvoir_de_signature": {
+            "relative_top_left": {
+                "x": 0.0172,
+                "y": 0.6538
+            },
+            "relative_bottom_right": {
+                "x": 0.9772,
+                "y": 0.9467
+            }
+        },
+        "effacer1": {
+            "relative_top_left": {
+                "x": 0.8567,
+                "y": 0.0959
+            },
+            "relative_bottom_right": {
+                "x": 0.8760,
+                "y": 0.1873
+            }
+        },
+        "effacer2": {
+            "relative_top_left": {
+                "x": 0.8563,
+                "y": 0.3236
+            },
+            "relative_bottom_right": {
+                "x": 0.8760,
+                "y": 0.4169
+            }
+        },
+        "effacer3": {
+            "relative_top_left": {
+                "x": 0.8569,
+                "y": 0.6910
+            },
+            "relative_bottom_right": {
+                "x": 0.8760,
+                "y": 0.7843
+            }
+        }
+    },
+  "labels": {
+      "checkbox_determine": {
+          "relative_top_left": {
+              "x": 0.0525,
+              "y": 0.0392
+          },
+          "relative_bottom_right": {
+              "x": 0.1838,
+              "y": 0.1828
+          }
+      },
+      "checkbox_indetermine": {
+          "relative_top_left": {
+              "x": 0.3967,
+              "y": 0.0444
+          },
+          "relative_bottom_right": {
+              "x": 0.5447,
+              "y": 0.1854
+          }
+      },
+      "date_de_nomination": {
+          "relative_top_left": {
+              "x": 0.0086,
+              "y": 0.2715
+          },
+          "relative_bottom_right": {
+              "x": 0.227,
+              "y": 0.3864
+          }
+      },
+      "date_d_expiration": {
+          "relative_top_left": {
+              "x": 0.0068,
+              "y": 0.4856
+          },
+          "relative_bottom_right": {
+              "x": 0.3183,
+              "y": 0.6292
+          }
+      },
+      "ou": {
+          "relative_top_left": {
+              "x": 0.0043,
+              "y": 0.7441
+          },
+          "relative_bottom_right": {
+              "x": 0.0611,
+              "y": 0.8538
+          }
+      },
+      "organe_social": {
+          "relative_top_left": {
+              "x": 0.0043,
+              "y": 0.07
+          },
+          "relative_bottom_right": {
+              "x": 0.1635,
+              "y": 0.242
+          }
+      },
+      "fonction": {
+          "relative_top_left": {
+              "x": 0.0056,
+              "y": 0.3032
+          },
+          "relative_bottom_right": {
+              "x": 0.1104,
+              "y": 0.4752
+          }
+      },
+      "pouvoir_de_signature": {
+          "relative_top_left": {
+              "x": 0.0093,
+              "y": 0.4869
+          },
+          "relative_bottom_right": {
+              "x": 0.2313,
+              "y": 0.6472
+          }
+      },
+      "effacer1": {
+          "relative_top_left": {
+              "x": 0.8957,
+              "y": 0.0408
+          },
+          "relative_bottom_right": {
+              "x": 0.9772,
+              "y": 0.1603
+          }
+      },
+      "effacer2": {
+          "relative_top_left": {
+              "x": 0.8951,
+              "y": 0.2624
+          },
+          "relative_bottom_right": {
+              "x": 0.9803,
+              "y": 0.3965
+          }
+      },
+      "effacer3": {
+          "relative_top_left": {
+              "x": 0.8927,
+              "y": 0.6297
+          },
+          "relative_bottom_right": {
+              "x": 0.9784,
+              "y": 0.7609
+          }
+      }
+  }
+}

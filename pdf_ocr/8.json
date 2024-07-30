@@ -1,0 +1,103 @@
+{
+  "boxes": [
+    {
+      "label": "Box 1",
+      "fields": [
+        "checkbox_illimitee",
+        "checkbox_determinee",
+        "checkbox_prorogee",
+        "date_fin"
+      ],
+      "labels": [
+        "checkbox_illimitee",
+        "checkbox_determinee",
+        "checkbox_prorogee",
+        "date_fin"
+      ]
+    }
+  ],
+  "fields": {
+    "checkbox_illimitee": {
+      "relative_top_left": {
+        "x": 0.0608,
+        "y": 0.1370
+      },
+      "relative_bottom_right": {
+        "x": 0.0794,
+        "y": 0.358
+      }
+    },
+    "checkbox_determinee": {
+      "relative_top_left": {
+        "x": 0.3983,
+        "y": 0.1398
+      },
+      "relative_bottom_right": {
+        "x": 0.4181,
+        "y": 0.3333
+      }
+    },
+    "checkbox_prorogee": {
+      "relative_top_left": {
+        "x": 0.7957,
+        "y": 0.1505
+      },
+      "relative_bottom_right": {
+        "x": 0.8141,
+        "y": 0.3333
+      }
+    },
+    "date_fin": {
+      "relative_top_left": {
+        "x": 0.4663,
+        "y": 0.5817
+      },
+      "relative_bottom_right": {
+        "x": 0.5781,
+        "y": 0.8817
+      }
+    }
+  },
+  "labels": {
+    "checkbox_illimitee": {
+      "relative_top_left": {
+        "x": 0.0888,
+        "y": 0.1183
+      },
+      "relative_bottom_right": {
+        "x": 0.2635,
+        "y": 0.4108
+      }
+    },
+    "checkbox_determinee": {
+      "relative_top_left": {
+        "x": 0.4249,
+        "y": 0.1290
+      },
+      "relative_bottom_right": {
+        "x": 0.6138,
+        "y": 0.4301
+      }
+    },
+    "checkbox_prorogee": {
+      "relative_top_left": {
+        "x": 0.8171,
+        "y": 0.1505
+      },
+      "relative_bottom_right": {
+        "x": 0.9924,
+        "y": 0.4301
+      }
+    },
+    "date_fin": {
+      "relative_top_left": {
+        "x": 0.2104,
+        "y": 0.5817
+      },
+      "relative_bottom_right": {
+        "x": 0.2911,
+        "y": 0.8925
+      }
+    }
+  }
+}

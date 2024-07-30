@@ -1,0 +1,104 @@
+{
+    "boxes": [
+      {
+        "label": "Box 1",
+        "fields": [
+          "premier_du",
+          "premier_au",
+          "exercise_du",
+          "exercise_au"
+        ],
+        "labels": [
+          "premier_du_label",
+          "premier_au_label",
+          "exercise_du_label",
+          "exercise_au_label"
+        ]
+      }
+    ],
+    "fields": {
+      "premier_du": {
+        "relative_top_left": {
+          "x": 0.1488,
+          "y": 0.2129
+        },
+        "relative_bottom_right": {
+          "x": 0.2591,
+          "y": 0.4000
+        }
+      },
+      "premier_au": {
+        "relative_top_left": {
+          "x": 0.4703,
+          "y": 0.2387
+        },
+        "relative_bottom_right": {
+          "x": 0.5781,
+          "y": 0.4258
+        }
+      },
+      "exercise_du": {
+        "relative_top_left": {
+          "x": 0.1484,
+          "y": 0.7026
+        },
+        "relative_bottom_right": {
+          "x": 0.2591,
+          "y": 0.8897
+        }
+      },
+      "exercise_au": {
+        "relative_top_left": {
+          "x": 0.4663,
+          "y": 0.7026
+        },
+        "relative_bottom_right": {
+          "x": 0.5781,
+          "y": 0.8897
+        }
+      }
+    },
+    "labels": {
+      "premier_du_label": {
+        "relative_top_left": {
+          "x": 0.0503,
+          "y": 0.2742
+        },
+        "relative_bottom_right": {
+          "x": 0.0828,
+          "y": 0.4032
+        }
+      },
+      "premier_au_label": {
+        "relative_top_left": {
+          "x": 0.2994,
+          "y": 0.2903
+        },
+        "relative_bottom_right": {
+          "x": 0.3319,
+          "y": 0.4194
+        }
+      },
+      "exercise_du_label": {
+        "relative_top_left": {
+          "x": 0.0507,
+          "y": 0.7742
+        },
+        "relative_bottom_right": {
+          "x": 0.0835,
+          "y": 0.9239
+        }
+      },
+      "exercise_au_label": {
+        "relative_top_left": {
+          "x": 0.2991,
+          "y": 0.7742
+        },
+        "relative_bottom_right": {
+          "x": 0.3316,
+          "y": 0.9239
+        }
+      }
+    }
+  }
+  

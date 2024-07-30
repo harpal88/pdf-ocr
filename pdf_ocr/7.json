@@ -1,0 +1,39 @@
+{
+  "boxes": [
+    {
+      "label": "Box 1",
+      "fields": [
+        "date_de_constitution"
+      ],
+      "labels": [        
+        "date_de_constitution"
+    ]
+    }
+],
+"fields": 
+{
+    "date_de_constitution": {
+    "relative_top_left": {
+      "x": 0.4693,
+      "y": 0.2800
+    },
+    "relative_bottom_right": {
+      "x": 0.5841,
+      "y": 0.8617
+    }
+  }
+},
+"labels": 
+    {
+        "date_de_constitution": {
+            "relative_top_left": {
+              "x": 0.4693,
+              "y": 0.2800
+            },
+            "relative_bottom_right": {
+              "x": 0.5841,
+              "y": 0.8617
+            }
+          }       
+    }
+}

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pdfplumber
+pillow
+numpy
+opencv-python-headless
+pytesseract
+fuzzywuzzy
+sqlalchemy
